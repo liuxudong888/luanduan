@@ -1,0 +1,21 @@
+$(function(){		
+		$("#btn_05").click(function(){
+			$.post(
+				"checkUser.php",
+				{
+					userId:$("#btn03").val(),
+					userPass:$("#btn04").val()
+				},
+				function(data){					
+					if(data==1){//登录成功！
+						//记录cookie
+						saveCookie("userId",$("#btn03").val(),7);
+						saveCookie("userPass",$("#btn04").val(),7);
+						location.href="index.html";
+					}else{
+						alert("登录失败，用户名或者密码不对！");
+					}
+				}
+			);
+		});
+});
