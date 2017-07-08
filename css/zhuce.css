@@ -1,0 +1,56 @@
+@charset "utf-8";
+.margin{width:1200px;margin:auto;}
+
+header{}
+header img{padding: 17px 0 3px 0px;}
+header h4{float: right;padding:36px 7px 0 0;}
+header h4 a{color: #000;font-size: 16px;}
+header h4 a:hover{color:#b71c20;border-bottom:1px solid #B71C20 ;}
+
+nav{height: 523px;}
+nav .ijij{widows: 100%;border-bottom: 2px solid #C9CACA;margin-top: 44px;}
+nav .deng{width: 415px;height:30px;border-bottom: 2px solid #B81B22;margin-left: 416px;}
+nav .deng h3{font:19px/24px ""; color: #979797;
+                float: left; padding-right:126px;
+                }
+nav .deng h4 i a{color: #b42025;font-size: 14px;z-index: 100;}
+nav .deng h4 i:hover{border-bottom: 1px solid #B71C20;}
+nav .deng h4{font-size: 14px; font-weight: normal;float:right;color: #979797;}
+
+nav .kuang{width:400px;border: 1px solid #d1d1d1;}
+nav .kuang .denglu{width: 200px;height: 35px;float: left;display: block;background: #B81B22;}
+nav .kuang .denglu p{text-align: center;font-size: 12px;margin-top: 10px;}
+nav .kuang .denglu2{width: 200px;height: 35px;color:#656565 ;float: right;display: block;background: yellow;}
+nav .kuang .denglu2 p{text-align: center;font-size: 12px;margin-top:10px ;}
+
+
+nav .luru{width: 412px;margin: 30px 406px;}
+
+
+nav  .zhanghao{width: 100%;}
+nav  .zhanghao .kuang5{width: 412px;height: 46px;margin:28px 0 0 0;float: left;color: #acacac;}
+nav  .zhanghao .kuang6{width: 412px;height: 46px;margin:18px  0 0 0px;float: left;color: #acacac;}
+nav  .zhanghao .kuang7{width: 412px;height: 46px;margin:18px 0 0 0px;background:#B71C20;color: #FFFFFF;font-size: 18px;float: left;}
+nav  .luru .zhanghao #checkWord{width:412px;height:46px;margin:18px 0 0 0px;float: left;color: #acacac;}
+nav  .luru .zhanghao .mima{width:412px;height:46px;margin:18px 0 0 0px;float: left;color: #acacac;}
+nav .yanzhengma{width: 97px;height: 45px;border: 1px solid #C9CACA;float: right;background: #f5f5f5;margin:28px 0 0 0}
+nav .yanzhengma a{font-size: 11px;color: #b52024;margin:14px 6px;}
+nav #isAgree{}
+nav #isAgree i{}
+nav #checkNum{}
+nav .luru p{width:120px ;position: relative;left: 295px;top:-20px;height: 56px;}
+
+
+
+
+footer{text-align: center;padding: 50px 0;}
+footer p{    color: #666;font-size: 12px;
+    word-spacing: 5px;
+    padding: 10px 0;
+text-align: center;}
+footer p a{
+    
+    color: #666;
+    text-decoration: none;
+}
+footer h3{font-size: 12px;color: #666;}

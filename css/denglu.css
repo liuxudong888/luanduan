@@ -1,0 +1,54 @@
+@charset "utf-8";
+.margin{width:1200px;margin:auto;}
+
+header{}
+header img{padding: 17px 0 3px 0px;}
+header h4{float: right;padding:36px 7px 0 0;}
+header h4 a{color: #000;font: 12px/24px "";}
+header h4 a:hover{color:#b71c20;border-bottom:1px solid #B71C20 ;}
+
+nav{background: #e2ebe8;
+    padding: 40px 0px;   }
+nav .popopo{width: 1200px;height: 540px; margin: 0px auto;
+    text-align: center;}
+nav .tututu{padding:64px 0px 0 67px;float: left;width: 568px;height: 413px;}
+nav .deng{float: right;width: 400px;margin:52px 53px 18px 0;}
+nav .deng h3{font-size: 22px; color: #979797;
+                float: left; padding-right:126px;
+                }
+nav .deng  .ce a{color: #b42025;font-size: 14px;}
+nav .deng h4 i:hover{border-bottom: 1px solid #B71C20;}
+nav .deng h4{font-size: 14px; font-weight: normal;float:right;color: #979797;}
+
+nav .kuang{background: #FFFFFF;float: right;width:400px;height: 35px;border: 1px solid #d1d1d1;margin-right: 49px;}
+nav .kuang .denglu{width: 200px;height: 35px;float: left;display: block;background: #ff9900;}
+nav .kuang .denglu p{text-align: center;font-size: 12px;margin-top: 10px;}
+nav .kuang .denglu2{width: 200px;height: 35px;color:#656565 ;float: right;display: block;}
+nav .kuang .denglu2 p{text-align: center;font-size: 12px;margin-top:10px ;}
+
+
+nav .luru{width: 400px;float: right;display: block;margin-right: 49px;border: 1px solid #d1d1d1;}
+nav  .zhanghao{width: 100%;height: 372px;background: #FFFFFF}
+nav  .zhanghao .kuang5{width: 362px;height: 46px;margin:49px 0 0 20px;}
+nav  .zhanghao .kuang6{width: 362px;height: 46px;margin:52px 20px;}
+nav  .zhanghao .kuang7{width: 362px;height: 46px;margin:0px 20px 18px;background:#ff9900;color: #FFFFFF;font-size: 18px}
+nav  .zhaohui{float: right;display: block;margin:2px 20px;}
+nav  .zhaohui a{font-size: 14px;color: #B81B22;}
+nav .zhaohui a:hover{border-bottom: 1px solid #B81B22;}
+nav  .hezuo{width: 100%;height: 97px;border-top:1px dotted #808080;}
+nav  .hezuo h4{font:12px/24px "";color: #a4a4a4;padding:14px 0 10px 19px;}
+nav  .hezuo ul{float: left;}
+nav  .hezuo ul li{float:left;margin-left:19px;}
+
+footer{text-align: center;padding: 50px 0;}
+footer p{    color: #666;font-size: 12px;
+    word-spacing: 5px;
+    padding: 10px 0;
+text-align: center;}
+footer p a{
+	
+    color: #666;
+    text-decoration: none;
+}
+footer h3{font-size: 12px;color: #666;}
+
